@@ -1,0 +1,2 @@
+User: What's the current sentiment for SOL?
+Agent: The 1h indicators show bullish momentum but volume is low. Suggested action: watch for a breakout above 25.3 USDC, stop-loss 24.0.
