@@ -1,0 +1,3 @@
+GET /health — returns 200 OK
+
+POST /v1/query — body: { "prompt": "...", "symbol": "SOL" }
