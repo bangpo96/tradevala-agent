@@ -1,0 +1,10 @@
+{
+  "handle": "tradevala-bot",
+  "display_name": "TradeVala Trading Agent",
+  "short_description": "AI assistant to monitor market and send trading alerts.",
+  "long_description": "TradeVala provides trading signals, backtests, and alerting for SOL, BTC, ETH.",
+  "repo_url": "https://github.com/your-github-username/tradevala-agent",
+  "website": "https://tradevala.example.com",
+  "categories": ["Crypto Trading","Alerts"],
+  "openapi": "/openapi.yaml"
+}
